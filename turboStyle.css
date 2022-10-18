@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.haval-r{
+    position: fixed;
+    width: 250px;
+    top: 0px;
+    height: 100%;
+    cursor:grab;
+    right: 0px;
+}
+.haval-l{
+    position: fixed;
+    width: 250px;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    cursor: grab;
+}
+.name{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color:white;
+}
+.elan{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    color:white;
+}
+.salon{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    color:white;
+}
+.hisse{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    color:white;
+    
+}
+.container{
+    width: 1170px;
+    margin-left: 12%;
+    
+}
+.box {
+    height: 50px;
+    align-items: center;
+background: rgb(190, 12, 12);
+}
+.box_inner {
+    justify-content: space-evenly;
+    font-size: 25px;
+    color: white;   
+}
+.item {
+    padding-top: 10px;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+
+.car{
+    margin-left: 300px;
+    margin-top: 60px;
+}
+.price{
+    margin-left: 300px;
+    margin-top: 5px;
+}
+.date{
+    color: gray;
+    font-size: small;
+}
+
+.car1{
+    margin-left: 600px;
+    margin-top: -1106px;
+    display: flex;
+}
+.price1{
+    margin-left: 600px;
+    margin-top: 5px;
+}
+.date1{
+    color: gray;
+    font-size: small;
+}
+.car2{
+    margin-left: 600px;
+    margin-top: 65px;
+    display: flex;
+}
+.price2{
+    margin-left: 600px;
+    margin-top: 5px;
+}
+.date2{
+    color: gray;
+    font-size: small;
+}
+
+.car3{
+    margin-left: 900px;
+    margin-top: -1106px;
+    display: flex;
+}
+.price3{
+    margin-left: 900px;
+    margin-top: 5px;
+}
+.date3{
+    color: gray;
+    font-size: small;
+}
+.car4{
+    margin-left: 900px;
+    margin-top: 65px;
+    display: flex;
+}
+.price4{
+    margin-left: 900px;
+    margin-top: 5px;
+}
+.date4{
+    color: gray;
+    font-size: small;
+}
+
+.skodaAd{
+    padding-top: 0%;
+}
