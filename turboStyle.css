@@ -41,12 +41,10 @@
     font-size: 15px;
     text-decoration: none;
     color:white;
-    
 }
 .container{
     width: 1170px;
-    margin-left: 12%;
-    
+    margin-left: 12%; 
 }
 .box {
     height: 50px;
@@ -64,20 +62,21 @@ display: flex;
 align-items: center;
 justify-content: space-evenly;
 }
-
 .car{
     margin-left: 300px;
     margin-top: 60px;
+    text-decoration: none;
 }
 .price{
     margin-left: 300px;
     margin-top: 5px;
+    text-decoration: none;
 }
 .date{
     color: gray;
     font-size: small;
+    text-decoration: none;
 }
-
 .car1{
     margin-left: 600px;
     margin-top: -1106px;
@@ -104,7 +103,6 @@ justify-content: space-evenly;
     color: gray;
     font-size: small;
 }
-
 .car3{
     margin-left: 900px;
     margin-top: -1106px;
@@ -131,7 +129,57 @@ justify-content: space-evenly;
     color: gray;
     font-size: small;
 }
-
 .skodaAd{
     padding-top: 0%;
+}
+.bar{
+    margin-left: 12%;
+    background-color: #f6f7fa;
+    height: 25px;
+    text-decoration: none;
+    color:white;
+    justify-content: space-between;
+}
+.tapaz {
+    text-decoration: none;
+    color:gray;
+    margin-left: -50px; 
+}
+a:hover{
+    color: red;
+}
+.binaaz {
+    text-decoration: none;
+    color:gray;
+    margin-left: 5px;
+}
+.bossaz {
+    text-decoration: none;
+    color:gray;
+    margin-left: 5px;
+}
+.num{
+    color: gray;
+    margin-left: 50px;
+}
+.help{
+    color: gray;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.lang {
+    color: gray;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.secil {
+    color: gray;
+    margin-left: 30px;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif; 
+}
+.giris {
+    color: gray;
+    margin-left: 30px;
+    text-decoration: none;
 }
