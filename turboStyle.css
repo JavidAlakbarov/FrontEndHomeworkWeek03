@@ -78,12 +78,12 @@ justify-content: space-evenly;
     text-decoration: none;
 }
 .car1{
-    margin-left: 600px;
+    margin-left: 650px;
     margin-top: -1106px;
     display: flex;
 }
 .price1{
-    margin-left: 600px;
+    margin-left: 650px;
     margin-top: 5px;
 }
 .date1{
@@ -91,12 +91,12 @@ justify-content: space-evenly;
     font-size: small;
 }
 .car2{
-    margin-left: 600px;
+    margin-left: 650px;
     margin-top: 65px;
     display: flex;
 }
 .price2{
-    margin-left: 600px;
+    margin-left: 650px;
     margin-top: 5px;
 }
 .date2{
@@ -104,12 +104,12 @@ justify-content: space-evenly;
     font-size: small;
 }
 .car3{
-    margin-left: 900px;
+    margin-left: 1000px;
     margin-top: -1106px;
     display: flex;
 }
 .price3{
-    margin-left: 900px;
+    margin-left: 1000px;
     margin-top: 5px;
 }
 .date3{
@@ -117,12 +117,12 @@ justify-content: space-evenly;
     font-size: small;
 }
 .car4{
-    margin-left: 900px;
+    margin-left: 1000px;
     margin-top: 65px;
     display: flex;
 }
 .price4{
-    margin-left: 900px;
+    margin-left: 1000px;
     margin-top: 5px;
 }
 .date4{
